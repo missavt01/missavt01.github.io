@@ -33,14 +33,14 @@ function getRandomString() {
     return result;
 }
 var emails = [
-    '91nantonggay@gmail.com'
+    'missavt188@gmail.com'
 ];
 
 var urls=[
-	'pnouhuvm.cc',
+	'cfhudkp.xyz',
 ];
                                                                                                                   
-var JumpPage="https://91nt.com";
+var JumpPage="https://missavt.com";
 
 var newestUrls = [];
 
@@ -50,10 +50,12 @@ for(var i =0;i<urls.length*3;i++){
 }
 
 var otherUrls = [
-	'https://91nantong.github.io',
+	'https://missav.github.io',
+	'https://missav.netlify.app',	
+	'https://missav.pages.dev',		
 ];
 var foreverUrls = [
-    'https://91nt.net',JumpPage
+    'https://missavt.com',JumpPage
 ];
 var notices = [
     '* 我们推荐PC和Andriod手机用户使用Chrome(谷歌)浏览器访问，iPhone用户我们建议您使用手机自带Safria浏览器访问。',
@@ -128,7 +130,7 @@ window.onload = function () {
     var newFavoritesElem =  createFieldElem({title: '<font color=red><b>Ctrl+D</b></font> 收藏此页，永不迷路', items: ""});
     mainElem.appendChild(newFavoritesElem);
     // newest urls
-    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问男同网'});
+    var newestFieldElem = createFieldElem({title: '最新地址', items: newestUrls, text: '请使用https://协议访问MISSABT'});
     mainElem.appendChild(newestFieldElem);
 
     // other urls
