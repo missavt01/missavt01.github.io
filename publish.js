@@ -37,12 +37,12 @@ var emails = [
 ];
 
 var urls=[
-	'nobfdlk.com',
-    'luvnrtqd.cc',
-	'ybwxuezm.xyz',
+	'znfcqan.cc',
+    'nobfdlk.com',
+	'luvnrtqd.cc',
 
 ];                                                                                                                 
-var JumpPage="https://missavt12.com";
+var JumpPage="https://missavt13.com";
 
 var newestUrls = [];
 
