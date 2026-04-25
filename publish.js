@@ -38,8 +38,8 @@ var emails = [
 
 var urls=[
 	'tssurkaq.com',
-    'qaiylkm.cc',
-	'xqczgglq.com',
+    'ffnnjht.cc',
+	'qaiylkm.cc',
 
 ];                                                                                                                 
 var JumpPage="https://missavt22.com";
